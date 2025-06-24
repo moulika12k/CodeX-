@@ -11,10 +11,10 @@ The goal is to provide actionable insights that help the company improve its bra
 ## 📊 What’s Included
 - 🎞️ A PowerPoint **presentation** that explains the analysis and business recommendations
 - 🧾 The full **SQL code** used to prepare the datasets for analysis
-- 📈 An **interactive dashboard** (hosted on NovyPro) showcasing key insights and KPIs
+- 📈 An **interactive dashboard** showcasing key insights and KPIs
 
 ## 🔗 Dashboard Link
-**[👉 Click here to view the interactive dashboard](https://www.novypro.com/create_project/codex-customer-insight--brand-penetration-dashboard))**  
+**[👉 Click here to view the interactive dashboard](https://www.novypro.com/create_project/codex-customer-insight--brand-penetration-dashboard)**  
 ---
 
 Feel free to explore the files in this repository for more details on how the analysis was performed.
